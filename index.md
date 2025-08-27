@@ -6,7 +6,6 @@ MaybeHelen is a duo spellbound by teaching English!
 
 _spellbound_, adj. – extremely passionate
 
-
 ## About us
 
 ### Helena Fronc 
@@ -27,4 +26,6 @@ Foreign languages are a huge part of my life. I've kept in teach with native spe
 
 It goes beyond that! I've learn Czech, German, Arabic, and have been learning Swedish as well. This allows me to see how a lesson should look like - because I can see what works on myself. 
 
+## Contact
 
+- marek.fronc@proton.me
