@@ -1,5 +1,5 @@
 ---
-title: Welcome to MaybeHelen!
+title: MaybeHelen
 ---
 
 MaybeHelen is a duo spellbound by teaching English!
